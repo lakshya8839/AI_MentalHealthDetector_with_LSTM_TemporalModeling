@@ -416,7 +416,7 @@ Contributions welcome! Please:
 
 For questions, issues, or collaboration:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: [chalanalakshya5@gmail.com]
 
 ---
 
