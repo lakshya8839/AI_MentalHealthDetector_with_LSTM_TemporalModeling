@@ -355,9 +355,9 @@ def main():
         If you're experiencing a crisis, please contact a mental health professional or crisis hotline immediately.
         <br><br>
         <strong>Crisis Resources:</strong> National Suicide Prevention Lifeline: 988 | Crisis Text Line: Text HOME to 741741
-    </div>
-	<br><br>
-	<strong>@ lakshya chalana </strong> 2026 All Right Reserved
+        <br><br>
+        <strong>@ lakshya chalana </strong> 2026 All Right Reserved
+	</div>
     </div>
     """, unsafe_allow_html=True)
 
