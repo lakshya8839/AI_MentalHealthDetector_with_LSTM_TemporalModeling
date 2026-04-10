@@ -356,7 +356,7 @@ def main():
         <br><br>
         <strong>Crisis Resources:</strong> National Suicide Prevention Lifeline: 988 | Crisis Text Line: Text HOME to 741741
         <br><br>
-        <strong>@ lakshya chalana </strong> 2026 All Right Reserved
+        <strong>@ 2026 Lakshya Chalana. </strong>All Right Reserved.
 	</div>
     </div>
     """, unsafe_allow_html=True)
