@@ -176,7 +176,7 @@ def main():
     """Main application."""
     
     # Header
-    st.markdown('<div class="main-header">🧠 AI Silent Mental Health Detector</div>', 
+    st.markdown('<div class="main-header">MindTrace.ai - AI Silent Mental Health Detector</div>', 
                 unsafe_allow_html=True)
     st.markdown("*Using NLP + LSTM Temporal Modeling for Early Detection*")
     
@@ -355,6 +355,8 @@ def main():
         If you're experiencing a crisis, please contact a mental health professional or crisis hotline immediately.
         <br><br>
         <strong>Crisis Resources:</strong> National Suicide Prevention Lifeline: 988 | Crisis Text Line: Text HOME to 741741
+    </div>
+	<strong>@ lakshya chalana </strong> 2026 All Right Reserved
     </div>
     """, unsafe_allow_html=True)
 
